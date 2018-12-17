@@ -1,4 +1,5 @@
 #** Seqüência de Fibonacci ** - Digite um número e peça ao programa para gerar a sequência de Fibonacci para esse número ou para o número N.
+
 n = int(input())
 a = 0
 b = 1
